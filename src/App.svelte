@@ -12,7 +12,7 @@
 <svelte:window bind:outerWidth />
 
 <svelte:head>
-	<title>hexbun | Alex Betts</title>
+	<title>hexedbun | Alex Betts</title>
 </svelte:head>
 
 <main>
