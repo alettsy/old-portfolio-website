@@ -3,7 +3,7 @@
 
 <nav class="navbar">
     <div class="socials">
-        <a href="https://github.com/hexbun/">
+        <a href="https://github.com/hexedbun/">
             <img src="tech/github.svg" alt="GitHub" />
         </a>
         <a href="https://www.linkedin.com/in/alex-betts-1a98b9167/">
